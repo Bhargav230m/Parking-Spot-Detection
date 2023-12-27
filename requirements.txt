@@ -1,0 +1,3 @@
+pickle
+python-opencv-contrib
+numpy
